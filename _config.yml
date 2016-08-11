@@ -1,0 +1,14 @@
+layout_spectrum: 0.06592888874001801
+typography_spectrum: 0.5876828690525144
+color:
+  brandStrength: 0.834475927054882
+  lightness: 0.7036701084580272
+  saturation: 0.2023788809310645
+  rhythmicContrast: 0.05666872882284224
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: HardTalk
